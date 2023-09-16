@@ -9,3 +9,5 @@ local repo --> (git remote add) -->github repo
 
 changes in local repo can be push up to github repo
 local repo --> (git push) -->github repo
+
+git rm --cached 20230916_FirstFile rm '20230916_FirstFile'
